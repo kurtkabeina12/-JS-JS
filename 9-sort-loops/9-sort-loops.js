@@ -1,3 +1,4 @@
+//9.10 sort
 const arr = [1, 40, -5, 10, 0];
 
 function getSort(sortArr, typeSort) {

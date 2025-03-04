@@ -1,3 +1,4 @@
+// 6.8 - Домашнее задание
 const hasLicence = true;
 const age = 18;
 const isDrunk = true;

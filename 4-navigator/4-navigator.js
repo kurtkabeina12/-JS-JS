@@ -1,3 +1,4 @@
+// 4-navigator
 let addressLat = 10;
 let addressLong = 5;
 let positionLat = 7;

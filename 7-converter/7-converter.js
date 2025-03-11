@@ -1,3 +1,4 @@
+// 7-converter
 function convertation(sum, myCurrency, newCurrency) {
 
 }

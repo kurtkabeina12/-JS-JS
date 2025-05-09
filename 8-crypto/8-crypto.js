@@ -1,3 +1,4 @@
+// 8-crypto
 function crypto(word) {
 	let wordLength = word.length;
 	if (wordLength % 2 == 0) {

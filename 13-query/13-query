@@ -1,0 +1,9 @@
+const obj = { search: "Вася", take: 10 };
+
+const rezult = Object.entries(obj)
+    .map(([key, value]) => key + value)
+    .join('&');
+
+console.log(rezult)
+
+

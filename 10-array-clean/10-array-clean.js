@@ -1,3 +1,4 @@
+// 10-array-clean
 const arr = [3, 6, 9, 2];
 
 function deleteItem(arr) {
